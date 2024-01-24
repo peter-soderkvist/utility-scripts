@@ -7,6 +7,7 @@ python3 -m venv .           # Optional
 source venv/bin/activate    # Optional
 
 python3 -m pip install PyAutoGUI
+chmod +x mouse-mover.py
 ./mouse-mover.py
 ```
 Just press `control/ctrl + c` to exit.
